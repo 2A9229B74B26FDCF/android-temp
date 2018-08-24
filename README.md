@@ -1,2 +1,2 @@
-# android-temp
+# android-templates
 a template for android
